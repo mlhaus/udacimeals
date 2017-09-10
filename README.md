@@ -3,7 +3,7 @@ This repository contains the documents required for Udacity's React Fundamentals
 ## Application Installation and Launching
 * Clone this repository using:
 ```
-ttps://github.com/mlhaus/udacimeals.git
+https://github.com/mlhaus/udacimeals.git
 ```
 * Download and Install [Node.js and npm](https://www.npmjs.com/get-npm)
 * Install npm using:
@@ -16,4 +16,4 @@ npm start
 ```
 
 ## How to use the app
-* The app features a customizable calendar for users to track their breakfast, lunch, and dinner through the weeks. users will leverage [Edamam's Recipe Search API](https://developer.adamam.com/adamam-recipe-api) to add meals, then generate a shopping list of ingredients based on the meals chosen.
+* The app features a customizable calendar for users to track their breakfast, lunch, and dinner through the weeks. users will leverage [Edamam's Recipe Search API](https://developer.edamam.com/edamam-recipe-api) to add meals, then generate a shopping list of ingredients based on the meals chosen.
